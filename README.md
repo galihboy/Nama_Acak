@@ -3,6 +3,7 @@
 ---
 
 Source code untuk membangkitkan nama acak. Data contoh nama disimpan di 4 file plus 1 file untuk menyimpan data nama asmaul husna.
+Cek demo online di https://galihboy.github.io/mini_projects/
 
 ```
 nama_islam.txt
