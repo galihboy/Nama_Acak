@@ -1,10 +1,13 @@
 ## Pembangkit Nama Acak
-###### Developed by [Galih Hermawan](https://galih.eu) | [Blog Medium](https://masgalih.medium.com).
+###### Developed by [Galih Hermawan](https://galih.eu) | [Blog](https://blog.galih.eu).
+
 ---
 
-Source code untuk membangkitkan nama acak. Data contoh nama disimpan di 4 file plus 1 file untuk menyimpan data nama asmaul husna.
-Cek demo online di https://galihboy.github.io/mini_projects/
+Source code untuk membangkitkan nama acak. 
 
+[Tutorial](https://blog.galih.eu/pembangkit-nama-acak-otomatis-berbasis-aturan-menggunakan-python) - [Demo](https://galihboy.github.io/mini_projects/)
+
+Data contoh nama disimpan di 4 file plus 1 file untuk menyimpan data nama asmaul husna.
 ```
 nama_islam.txt
 nama_laki.txt
